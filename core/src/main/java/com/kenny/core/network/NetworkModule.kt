@@ -1,8 +1,8 @@
 package com.kenny.core.network
 
-import com.kenny.catbreeds_feature.data.utils.BASE_URL
 import com.kenny.core.network.qualifers.BasePath
 import com.kenny.core.network.qualifers.RetrofitBasic
+import com.kenny.core.utils.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
