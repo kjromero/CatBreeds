@@ -26,7 +26,6 @@ class CatBreedsViewModel @Inject constructor(
     savedStateHandle,
     catBreedsUiState
 ) {
-
     init {
         acceptIntent(GetCatBreeds)
     }
